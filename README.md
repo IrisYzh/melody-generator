@@ -72,4 +72,7 @@ Generated Melody:
 C4 E4 G4 C5 B4 A4 G4 E4 ...
 ```
 
-### 🥳 Now you can enjoy your music!
+#### 🥳 Now you can enjoy your music!
+
+## License
+This project is an academic coursework for TECHIN 509 and for research & educational use only.
